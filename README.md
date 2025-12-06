@@ -1,5 +1,3 @@
-
-
 \# ⚡ Welcome to My Universe
 
 
@@ -149,18 +147,4 @@ I love learning new technologies, refining UI/UX workflows, and turning complex 
 \# 🔥 Visitors
 
 !\[Views](https://count.getloli.com/get/@iLordMaster?theme=moebooru)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
