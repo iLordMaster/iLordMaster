@@ -1,16 +1,8 @@
-<!-- PREMIUM DARK LUXURY README -->
+<!-- ===================== PREMIUM GOLD README ===================== -->
 
 
 
-<p align="center">
-
-&nbsp; <img src="https://github-widgetbox.vercel.app/api/profile?username=iLordMaster\&theme=darkmode\&data=reputation,followers,stars,commits" />
-
-</p>
-
-
-
-<!-- Animated Particle Banner -->
+<!-- Centered Banner Divider -->
 
 <p align="center">
 
@@ -20,21 +12,17 @@
 
 
 
+<!-- Animated Typing Intro -->
+
 <h1 align="center">
 
-&nbsp; <span style="color:#F8D568;">⚡ Welcome to My Universe</span>
+&nbsp; <img src="https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=26\&pause=1200\&duration=2500\&color=F8D568\&center=true\&vCenter=true\&width=600\&lines=Welcome+to+My+Universe;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Clean+Code+%7C+UX+Driven;Always+Building+%26+Improving" />
 
 </h1>
 
 
 
-<p align="center">
-
-&nbsp; <img src="https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=2800\&pause=1200\&color=F8D568\&center=true\&vCenter=true\&width=600\&lines=Full-Stack+Developer;Crafting+High-Performance+Web+Apps;Node.js+%7C+React+%7C+Next.js;UX+%2B+Architecture+Driven;Building+Clean+and+Scalable+Systems" />
-
-</p>
-
-
+<!-- Divider -->
 
 <p align="center">
 
@@ -44,11 +32,7 @@
 
 
 
----
-
-
-
-\# 🌐 Socials  
+\# 🌐 Socials
 
 <p align="center">
 
@@ -70,7 +54,7 @@
 
 
 
-\### ⚡ Frontend
+\## ⚡ Frontend
 
 <p>
 
@@ -92,7 +76,7 @@
 
 
 
-\### ⚡ Backend \& APIs
+\## ⚡ Backend \& APIs
 
 <p>
 
@@ -110,7 +94,7 @@
 
 
 
-\### ⚡ Languages
+\## ⚡ Languages
 
 <p>
 
@@ -128,7 +112,7 @@
 
 
 
-\### ⚡ DevOps \& Hosting
+\## ⚡ DevOps \& Hosting
 
 <p>
 
@@ -146,7 +130,7 @@
 
 
 
-\### ⚡ Tools
+\## ⚡ Tools
 
 <p>
 
@@ -160,7 +144,7 @@
 
 
 
-\### ⚡ Other
+\## ⚡ Other
 
 <p>
 
@@ -178,7 +162,7 @@
 
 
 
-\# 📊 GitHub Stats  
+\# 📊 GitHub Stats
 
 <p align="center">
 
@@ -208,7 +192,7 @@
 
 
 
-\# 🏆 GitHub Awards  
+\# 🏆 GitHub Awards
 
 <p align="center">
 
@@ -222,7 +206,7 @@
 
 
 
-\# 🔥 Visitors  
+\# 🔥 Visitors
 
 <p align="center">
 
@@ -231,6 +215,8 @@
 </p>
 
 
+
+<!-- End Divider -->
 
 <p align="center">
 
