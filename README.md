@@ -29,4 +29,48 @@ I love learning new technologies, refining UI/UX workflows, and turning complex 
 ![NodeJS](https://img.shields.io/badge/Node.js-F8D568?style=for-the-badge&logo=node.js&logoColor=000000)
 ![Express.js](https://img.shields.io/badge/Express.js-F8D568?style=for-the-badge&logo=express&logoColor=000000)
 ![JWT](https://img.shields.io/badge/JWT-F8D568?style=for-the-badge&logo=jsonwebtokens&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-F8D568?style=for-the)
+![MongoDB](https://img.shields.io/badge/MongoDB-F8D568?style=for-the-badge&logo=mongodb&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-F8D568?style=for-the-badge&logo=mysql&logoColor=000000)
+
+## Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F8D568?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-F8D568?style=for-the-badge&logo=typescript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-F8D568?style=for-the-badge&logo=python&logoColor=000000)
+![C](https://img.shields.io/badge/C-F8D568?style=for-the-badge&logo=c&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-F8D568?style=for-the-badge&logo=java&logoColor=000000)
+
+## DevOps & Hosting
+![Docker](https://img.shields.io/badge/Docker-F8D568?style=for-the-badge&logo=docker&logoColor=000000)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F8D568?style=for-the-badge&logo=githubactions&logoColor=000000)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-F8D568?style=for-the-badge&logo=gitlab&logoColor=000000)
+![Netlify](https://img.shields.io/badge/Netlify-F8D568?style=for-the-badge&logo=netlify&logoColor=000000)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-F8D568?style=for-the-badge&logo=github&logoColor=000000)
+
+## Tools
+![Postman](https://img.shields.io/badge/Postman-F8D568?style=for-the-badge&logo=postman&logoColor=000000)
+![Figma](https://img.shields.io/badge/Figma-F8D568?style=for-the-badge&logo=figma&logoColor=000000)
+![Photoshop](https://img.shields.io/badge/Photoshop-F8D568?style=for-the-badge&logo=adobephotoshop&logoColor=000000)
+
+## Other
+![GitHub](https://img.shields.io/badge/GitHub-F8D568?style=for-the-badge&logo=github&logoColor=000000)
+![GitLab](https://img.shields.io/badge/GitLab-F8D568?style=for-the-badge&logo=gitlab&logoColor=000000)
+![Blender](https://img.shields.io/badge/Blender-F8D568?style=for-the-badge&logo=blender&logoColor=000000)
+
+---
+
+# 📊 GitHub Stats
+![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=iLordMaster&show_icons=true&theme=dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=iLordMaster&theme=dark&hide_border=true&ring=F8D568&fire=F8D568&currStreakLabel=F8D568)
+
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=iLordMaster&layout=compact&title_color=F8D568&text_color=000000&hide_border=true)
+
+---
+
+# 🏆 GitHub Awards
+![Trophies](https://github-profile-trophy.vercel.app/?username=iLordMaster&theme=onestar&no-frame=true&margin-w=8)
+
+---
+
+# 🔥 Visitors
+![Views](https://count.getloli.com/get/@iLordMaster?theme=moebooru)
